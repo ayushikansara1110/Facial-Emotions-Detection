@@ -6,17 +6,18 @@ This Python application utilizes a pre-trained deep learning model to detect and
 
 Features
 
-Real-Time Video Processing: Captures video from the user's webcam.
-Face Detection: Identifies human faces within the video frame.
-Emotion Recognition: Classifies emotions from facial features using a pre-trained model.
-Emotion Display: Overlays the detected emotion label onto the video frame.
+1. Real-Time Video Processing: Captures video from the user's webcam.
+2. Face Detection: Identifies human faces within the video frame.
+3. Emotion Recognition: Classifies emotions from facial features using a pre-trained model.
+4. Emotion Display: Overlays the detected emotion label onto the video frame.
 
 Usage
 
-Run the application.
-The user's webcam feed will display on the screen.
-The app will identify faces and predict their emotions in real-time.
-Emotion labels (e.g., Happy, Sad, Angry) will appear above each detected face.
+1. Run the application.
+2. The user's webcam feed will display on the screen.
+3. The app will identify faces and predict their emotions in real-time.
+4. Emotion labels (e.g., Happy, Sad, Angry) will appear above each detected face.
+   
 Technical Specifications
 
 Programming Language: Python
