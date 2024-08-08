@@ -21,6 +21,7 @@ Usage
 Technical Specifications
 
 Programming Language: Python
+
 Libraries: OpenCV, TensorFlow/Keras
 
 Pre-trained Model: Facial emotion classification model (.h5)
