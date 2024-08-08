@@ -22,7 +22,9 @@ Technical Specifications
 
 Programming Language: Python
 Libraries: OpenCV, TensorFlow/Keras
+
 Pre-trained Model: Facial emotion classification model (.h5)
+
 Haar Cascade Classifier: Haarcascade_frontalface_default.xml (for face detection)
 
 Note: This application requires a pre-trained facial emotion classification model for operation.
